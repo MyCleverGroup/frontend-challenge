@@ -32,7 +32,7 @@ Please get the page content from http://18.168.159.211/wp-json/acf/v3/pages/2, a
 
 ****Adobe XD Link****:
 
-[https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/](~~https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/~~)
+https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/
 
 Open the XD link above to see the design. By clicking the ‘Specs’ icon on the right, you’ll be able to see fonts, assets and colours too. You can download assets by clicking on them in the assets panel and clicking download, choosing a file type of your preference.
 
@@ -40,7 +40,7 @@ You can also click on elements within the design to see information about them l
 
 ****Gilroy Font:****
 
-[https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip](~~https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip~~)
+https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip
 
 You’ll need to download and use the attached fonts. Both font weights have been attached.
 
