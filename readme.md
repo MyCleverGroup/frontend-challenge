@@ -27,9 +27,11 @@ Other than that, feel free to experiment with your favourite technologies and sh
 
 ## Project Assets
 ****API****:
+
 Please get the page content from http://18.168.159.211/wp-json/acf/v3/pages/2, anything that isn’t on there can be added statically.
 
 ****Adobe XD Link****:
+
 [https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/](~~https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/~~)
 
 Open the XD link above to see the design. By clicking the ‘Specs’ icon on the right, you’ll be able to see fonts, assets and colours too. You can download assets by clicking on them in the assets panel and clicking download, choosing a file type of your preference.
