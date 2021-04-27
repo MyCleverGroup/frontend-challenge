@@ -17,7 +17,8 @@ We’d like you to recreate the attached design in as much detail and as accurat
 - 📦 Host the files in a public Github / Gitlab / Bitbucket repository
 - 📑 Document your work and explain your decisions
 
-  **If you’re feeling crazy, we’d also be interested to see you:**
+
+**If you’re feeling crazy, we’d also be interested to see you:**
 
 - 🙌. Implement some sort of slide out menu when the user clicks the icon in the top left
 - 👀 Host the frontend in an environment of your choice
