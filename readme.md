@@ -1,6 +1,6 @@
 <p style="text-align: center; margin: 50px 0"> <img src="./MCG_Logo.png" align=“center” width="100%" alt="Project icon"></p>
 
- Front End Developer Technical Challenge
+  Front End Developer Technical Challenge
 
 👋 Hey There!
 
@@ -26,7 +26,7 @@ We’d like you to recreate the attached design in as much detail and as accurat
 Other than that, feel free to experiment with your favourite technologies and show us what you are capable of!
 
 ## Project Assets
-**API**
+****API****:
 Please get the page content from http://18.168.159.211/wp-json/acf/v3/pages/2, anything that isn’t on there can be added statically.
 
 ****Adobe XD Link****:
