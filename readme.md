@@ -36,7 +36,7 @@ https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/
 
 Open the XD link above to see the design. By clicking the ‘Specs’ icon on the right, you’ll be able to see fonts, assets and colours too. You can download assets by clicking on them in the assets panel and clicking download, choosing a file type of your preference.
 
-You can also click on elements within the design to see information about them like margins, colours and export information if it can be exported (for example the social icons
+You can also click on elements within the design to see information about them like margins, colours and export information if it can be exported (for example the social icons)
 
 ****Gilroy Font:****
 
