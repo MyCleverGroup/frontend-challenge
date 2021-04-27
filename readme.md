@@ -1,6 +1,4 @@
-# Frontend Developer Task
-
-<p style="text-align: center; margin: 50px 0"> <img src="./MCG_Logo.png" align="center" width="250" alt="Project icon"></p>
+<p style="text-align: center; margin: 50px 0"> <img src="./MCG_Logo.png" align="center" width="100%" alt="Project icon"></p>
 
 # Front End Developer Technical Challenge
 
