@@ -1,18 +1,18 @@
 <p style="text-align: center; margin: 50px 0"> <img src="./MCG_Logo.png" align=“center” width="100%" alt="Project icon"></p>
 
-  Front End Developer Technical Challenge
+# Front End Developer Technical Challenge
 
 👋 Hey There!
 
-We’d like you to recreate the attached design in as much detail and as accurately as possible, whilst being fully responsive. This is an opportunity to show off your creative flare and express yourself as a front end developer!
+We’d like you to recreate the attached design in as much detail and as accurately as possible. Feel free to add any animations and effects you like, or even add additional features you like the idea of. This is an opportunity to show off your creative flare and express yourself as a front end developer!
 
 ## Requirements
 
 ****As a minimum we’d like to see:****
 
-- ⚛ Build out the frontend in Vue.js or React
+- ⚛  Build out the frontend in Vue.js or React
 - 🏗 Feel free to use a Vue / React framework
-- 📖 Import content from the Wordpress API provided below in the project assets
+- 📖 Retrieve content from the Wordpress API provided below in the project assets
 - 👨🏼‍🎨 Try and stick as close as possible to the design provided below
 - 📦 Host the files in a public Github / Gitlab / Bitbucket repository
 - 📑 Document your work and explain your decisions
@@ -20,7 +20,7 @@ We’d like you to recreate the attached design in as much detail and as accurat
 
 ****If you’re feeling crazy, we’d also be interested to see you:****
 
-- 🙌. Implement some sort of slide out menu when the user clicks the icon in the top left
+- 🙌 Implement some sort of slide out menu when the user clicks the icon in the top left
 - 👀 Host the frontend in an environment of your choice
 
 Other than that, feel free to experiment with your favourite technologies and show us what you are capable of!
@@ -43,3 +43,4 @@ You can also click on elements within the design to see information about them l
 [https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip](~~https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip~~)
 
 You’ll need to download and use the attached fonts. Both font weights have been attached.
+
