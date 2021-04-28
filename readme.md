@@ -2,7 +2,7 @@
 
 # Front End Developer Technical Challenge
 
-👋 Hey There!
+👋 &nbsp;Hey There!
 
 We’d like you to recreate the attached design in as much detail and as accurately as possible. Feel free to add any animations and effects you like, or even add additional features you like the idea of. This is an opportunity to show off your creative flare and express yourself as a front end developer!
 
@@ -10,18 +10,18 @@ We’d like you to recreate the attached design in as much detail and as accurat
 
 ****As a minimum we’d like to see:****
 
-- ⚛  Build out the frontend in Vue.js or React
-- 🏗 Feel free to use a Vue / React framework
-- 📖 Retrieve content from the Wordpress API provided below in the project assets
-- 👨🏼‍🎨 Try and stick as close as possible to the design provided below
-- 📦 Host the files in a public Github / Gitlab / Bitbucket repository
-- 📑 Document your work and explain your decisions
+- ⚛  &nbsp;Build out the frontend in Vue.js or React
+- 🏗 &nbsp;Feel free to use a Vue / React framework
+- 📖 &nbsp;Retrieve content from the Wordpress API provided below in the project assets
+- 👨🏼‍🎨 &nbsp;Try and stick as close as possible to the design provided below
+- 📦 &nbsp;Host the files in a public Github / Gitlab / Bitbucket repository
+- 📑 &nbsp;Document your work and explain your decisions
 
 
 ****If you’re feeling crazy, we’d also be interested to see you:****
 
-- 🙌 Implement some sort of slide out menu when the user clicks the icon in the top left
-- 👀 Host the frontend in an environment of your choice
+- 🙌 &nbsp;Implement some sort of slide out menu when the user clicks the icon in the top left
+- 👀 &nbsp;Host the frontend in an environment of your choice
 
 Other than that, feel free to experiment with your favourite technologies and show us what you are capable of!
 
