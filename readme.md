@@ -28,7 +28,7 @@ Other than that, feel free to experiment with your favourite technologies and sh
 ## Project Assets
 ****API****:
 
-Please get the page content from http://18.168.159.211/wp-json/acf/v3/pages/2, anything that isn’t on there can be added statically.
+Please get the page content from https://frontend-challenge-api.myclevergroup.com/wp-json/acf/v3/pages/2, anything that isn’t on there can be added statically.
 
 ****Adobe XD Link****:
 
