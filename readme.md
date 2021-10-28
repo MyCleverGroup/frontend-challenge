@@ -11,7 +11,6 @@ We’d like you to recreate the attached design in as much detail and as accurat
 ****As a minimum we’d like to see:****
 
 - ⚛  &nbsp;Build out the frontend in Vue.js or React
-- 🏗 &nbsp;Feel free to use a Vue / React framework
 - 📖 &nbsp;Retrieve content from the Wordpress API provided below in the project assets
 - 👨🏼‍🎨 &nbsp;Try and stick as close as possible to the design provided below
 - 📦 &nbsp;Host the files in a public Github / Gitlab / Bitbucket repository
