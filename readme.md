@@ -1,46 +1,37 @@
-<p style="text-align: center; margin: 50px 0"> <img src="./MCG_Logo.png" align=“center” width="100%" alt="Project icon"></p>
+<p style="text-align: center; margin: 50px 0"> <img src="./logo.png" align=“center” width="100%" alt="Project icon"></p>
 
 # Front End Developer Technical Challenge
 
-👋 &nbsp;Hey There!
+👋  Hey There!
 
-We’d like you to recreate the attached design in as much detail and as accurately as possible. Feel free to add any animations and effects you like, or even add additional features you like the idea of. This is an opportunity to show off your creative flare and express yourself as a front end developer!
+For this challenge, we'd like you to finish a new piece of functionality called "Huler Todo".
 
-## Requirements
+### **Overview**
 
-****As a minimum we’d like to see:****
+Huler Todo is a simple todo list, featuring abilities to:
 
-- ⚛  &nbsp;Build out the frontend in Vue.js or React
-- 🏗 &nbsp;Feel free to use a Vue / React framework like Next.js or Nuxt
-- 📖 &nbsp;Retrieve content from the Wordpress API provided below in the project assets
-- 👨🏼‍🎨 &nbsp;Try and stick as close as possible to the design provided below
-- 📦 &nbsp;Host the files in a public Github / Gitlab / Bitbucket repository
-- 📑 &nbsp;Document your work and explain your decisions
+- Add a new todo
+- Mark a todo as completed by checking it, or dragging it over to the completed list
+- Ability to add sub-items
+- When all sub-items are completed, the item itself should be complete
 
+We've set up a [Codesandbox](https://codesandbox.io/s/huler-frontend-tech-challenge-wes4m) containing the existing work, we'd like you to fork and finish off the project by:
 
-****If you’re feeling crazy, we’d also be interested to see you:****
+- Aligning it with the design as accurately as possible
+- Get as much functionality above as you can working
+- Tidy up any mistakes or errors that already exist in the code
+- Add in some responsive styling so it works across all screen sizes
 
-- 🙌 &nbsp;Implement some sort of slide out menu when the user clicks the icon in the top left
-- 👀 &nbsp;Host the frontend in an environment of your choice
+### **Design**
 
-Other than that, feel free to experiment with your favourite technologies and show us what you are capable of!
+[https://xd.adobe.com/view/eb4bf5aa-6d11-4f8c-8d52-3eb5fc94a204-be18/](https://xd.adobe.com/view/eb4bf5aa-6d11-4f8c-8d52-3eb5fc94a204-be18/)
 
-## Project Assets
-****API****:
+Open the Adobe XD link above to see the design. By clicking the ‘Specs’ icon on the right, you’ll be able to see fonts, assets and colours. You can download assets by clicking on them in the assets panel and clicking download, choosing a file type of your preference - some assets are already available in the public folder.
 
-Please get the page content from https://frontend-challenge-api.myclevergroup.com/wp-json/acf/v3/pages/2, anything that isn’t on there can be added statically.
+You can also click on elements within the design to see information about them like margins, colours and export information if it can be exported.
 
-****Adobe XD Link****:
+---
 
-https://xd.adobe.com/view/eb99744e-f07a-4605-9fd5-b7c272f947b7-beca/specs/
+Again, you can find the sandbox here: [https://codesandbox.io/s/huler-frontend-tech-challenge-wes4m](https://codesandbox.io/s/huler-frontend-tech-challenge-wes4m)
 
-Open the XD link above to see the design. By clicking the ‘Specs’ icon on the right, you’ll be able to see fonts, assets and colours too. You can download assets by clicking on them in the assets panel and clicking download, choosing a file type of your preference.
-
-You can also click on elements within the design to see information about them like margins, colours and export information if it can be exported (for example the social icons)
-
-****Gilroy Font:****
-
-https://dblx.co.uk/storage/MCG-Front-End-Developer-Test-Fonts.zip
-
-You’ll need to download and use the attached fonts. Both font weights have been attached.
-
+Thank you for taking the time to complete our tech challenge, good luck!
