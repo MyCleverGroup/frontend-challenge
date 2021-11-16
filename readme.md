@@ -1,4 +1,4 @@
-<p style="text-align: center; margin: 50px 0"> <img src="./logo.png" align=“center” width="100%" alt="Project icon"></p>
+<p style="text-align: center; margin: 50px 0"> <img src="./Logo.png" align=“center” width="100%" alt="Project icon"></p>
 
 # Front End Developer Technical Challenge
 
