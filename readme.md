@@ -12,6 +12,7 @@ Huler Todo is a simple todo list, featuring abilities to:
 
 - Add a new todo
 - Mark a todo as completed by checking it, or dragging it over to the completed list
+- Reorder items by dragging
 - Ability to add sub-items
 - When all sub-items are completed, the item itself should be complete
 
@@ -21,6 +22,8 @@ We've set up a [Codesandbox](https://codesandbox.io/s/huler-frontend-tech-chall
 - Get as much functionality above as you can working
 - Tidy up any mistakes or errors that already exist in the code
 - Add in some responsive styling so it works across all screen sizes
+
+Feel free to use any packages to assist you with the functionality required. 
 
 ### **Design**
 
