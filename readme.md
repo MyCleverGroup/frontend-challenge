@@ -25,6 +25,8 @@ We've set up a [Codesandbox](https://codesandbox.io/s/huler-frontend-tech-chall
 
 Feel free to use any packages to assist you with the functionality required. 
 
+If you feel more comfortable in Vue.js, we have a similar [Codesandbox in Vue](https://codesandbox.io/s/huler-frontend-tech-challenge-vue-bfxh8)
+
 ### **Design**
 
 [https://xd.adobe.com/view/eb4bf5aa-6d11-4f8c-8d52-3eb5fc94a204-be18/](https://xd.adobe.com/view/eb4bf5aa-6d11-4f8c-8d52-3eb5fc94a204-be18/)
